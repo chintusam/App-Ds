@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="App DS" max_length="40" name="x_771666_app_ds_app_ds" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Date of birth" max_length="40" name="date_of_birth" type="glide_time"/>
+        <element attributes="omit_sys_original=true" label="Dollar" max_length="20" name="dollar" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

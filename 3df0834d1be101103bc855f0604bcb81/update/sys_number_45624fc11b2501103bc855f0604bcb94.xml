@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_771666_app_ds_app_ds">x_771666_app_ds_app_ds</category>
+        <maximum_digits>7</maximum_digits>
+        <number>100</number>
+        <prefix>DS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-07 02:00:28</sys_created_on>
+        <sys_id>45624fc11b2501103bc855f0604bcb94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DS</sys_name>
+        <sys_package display_value="App DS" source="x_771666_app_ds">3df0834d1be101103bc855f0604bcb81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App DS">3df0834d1be101103bc855f0604bcb81</sys_scope>
+        <sys_update_name>sys_number_45624fc11b2501103bc855f0604bcb94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-07 02:00:28</sys_updated_on>
+    </sys_number>
+</record_update>
